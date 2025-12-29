@@ -1,0 +1,4 @@
+RPi.GPIO
+picamera
+numpy
+opencv-python  # Optional for image processing
